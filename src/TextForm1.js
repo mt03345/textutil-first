@@ -1,4 +1,4 @@
-// 4-TextForm.js
+// 4-textform js
 import React, { useState } from "react";
 
 export default function TextForm(props) {

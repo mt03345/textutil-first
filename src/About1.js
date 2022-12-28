@@ -1,4 +1,4 @@
-// 5-About.js
+// 3-about js
 import React , {useState} from 'react'
 
 export default function About() {
